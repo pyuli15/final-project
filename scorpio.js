@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'How can you be so foolish? \n I never knew you to be kind';
+var txt = 'Dare defy me and my character. Sting as deep as flesh, bore through you. I am a force much stronger than such, respect that which is grander';
 var speed = 100;
 
 function typeWriter() {
