@@ -14,6 +14,7 @@ body {
 h1 {
 	font-family: Zodiac;
 	font-size: 5em;
+  padding: 0;
 }
 
 #path {
