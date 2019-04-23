@@ -1,0 +1,58 @@
+@font-face { font-family: Zodiac; src: url('font/TaraType.ttf'); } 
+@font-face { font-family: Zodiac; font-weight: bold; src: url('font/TaraType.ttf');}
+
+body {
+  background-color:#000000;
+  margin: 0;
+  text-align: center;
+  color:#fff;
+  padding: 0;
+}
+
+* { color:#fff; text-decoration: none;}
+
+h1 {
+	font-family: Zodiac;
+	font-size: 5em;
+}
+
+#path {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 8s linear alternate infinite;
+}
+
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 1000;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes lights {
+  0%        {fill: #000}
+  20%       {fill: #fbcb43}
+  40%, 100% {fill: #000}
+}
+
+.scorp-lights {
+  animation: lights 2.5s ease infinite;
+}
+
+.light2 {animation-delay: .3s}
+.light3 {animation-delay: .4s}
+.light4 {animation-delay: .5s}
+.light5 {animation-delay: .6s}
+.light6 {animation-delay: .7s}
+.light7 {animation-delay: .8s}
+.light8 {animation-delay: .9s}
+.light9 {animation-delay: .10s}
+.light10 {animation-delay: .11s}
+.light11 {animation-delay: .12s}
+.light12 {animation-delay: .13s}
+.light13 {animation-delay: .14s}
+.light14 {animation-delay: .15s}
+.light15 {animation-delay: .16s}

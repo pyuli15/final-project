@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="scorpio" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="500px" height="560px" viewBox="0 0 500 560" enable-background="new 0 0 500 560" xml:space="preserve">
+<polygon id="body" points="399.624,118.906 399.129,118.839 399.604,118.684 389.927,89.006 389.451,89.161 389.612,88.688 
+	359.29,78.366 358.968,79.312 389.053,89.554 398.493,118.501 337.056,136.1 337.193,136.581 336.888,136.185 321.404,148.12 
+	321.71,148.517 321.29,148.246 309.031,167.277 309.458,167.553 309.024,167.288 267.09,235.998 267.517,236.258 267.056,236.064 
+	254.797,265.096 255.258,265.291 254.763,265.221 249.533,302.444 231.213,317.049 189.03,317.049 172.597,298.72 180.854,273.314 
+	201.4,254.693 200.729,253.952 180.083,272.662 180.419,273.032 179.944,272.878 171.557,298.685 172.032,298.839 171.66,299.173 
+	188.435,317.883 188.807,317.549 188.807,318.049 231.387,318.049 231.387,317.549 231.699,317.939 250.312,303.101 250,302.71 
+	250.495,302.779 255.744,265.426 267.964,236.485 309.878,167.809 309.878,167.808 322.083,148.86 337.424,137.034 398.53,119.53 
+	393.798,154.233 393.798,154.233 388.959,180.685 389.943,180.864 394.782,154.413 394.29,154.323 394.785,154.39 "/>
+<g id="lights">
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="250" cy="302.71" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="201.4" cy="254.693" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="180.419" cy="273.032" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="172.597" cy="298.72" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="189.03" cy="317.049" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="231.213" cy="317.049" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="254.75" cy="266.532" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="266.75" cy="237.75" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="320.5" cy="149.611" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="337.424" cy="137.034" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="399.604" cy="118.684" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="389.612" cy="179.75" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="388.976" cy="89.316" rx="6" ry="6.5"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="359.29" cy="78.366" rx="6" ry="6.5"/>
+</g>
+</svg>
