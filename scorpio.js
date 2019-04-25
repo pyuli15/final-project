@@ -12,6 +12,11 @@ var txt4 = `Respect that which is grander`;
 
 var speed = 200;
 
+function scrollPage()
+{
+	window.scrollBy(0, 100);
+}
+
 function typeWriter() 
 {
 	if (i < txt.length) 
@@ -24,6 +29,7 @@ function typeWriter()
 		{
 			document.getElementById("demo").innerHTML += "<br>";
 			document.getElementById("demo").innerHTML += "<br>";
+			scrollPage();
 		}
 		
 	}
@@ -38,6 +44,7 @@ function typeWriter()
 		{
 			document.getElementById("demo").innerHTML += "<br>";
 			document.getElementById("demo").innerHTML += "<br>";
+			scrollPage();
 		}
 		
 	}
@@ -52,6 +59,7 @@ function typeWriter()
 		{
 			document.getElementById("demo").innerHTML += "<br>";
 			document.getElementById("demo").innerHTML += "<br>";
+			scrollPage();
 		}
 		
 	}
@@ -66,10 +74,12 @@ function typeWriter()
 		{
 			document.getElementById("demo").innerHTML += "<br>";
 			document.getElementById("demo").innerHTML += "<br>";
+			scrollPage();
 		}
 		
 	}
 }
+
 
 
 
