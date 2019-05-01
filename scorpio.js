@@ -21,6 +21,7 @@ function typeWriter()
 {
 	if (i < txt.length) 
 	{
+		scrollPage();
 		document.getElementById("demo").innerHTML += txt.charAt(i);
 		i++;
 		setTimeout(typeWriter, speed);
