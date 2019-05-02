@@ -13,8 +13,10 @@ body {
 	
 }
 
-.icon1:hover {
-	animation: iconHover 8s ease-in-out linear infinite;
+#scorpio:hover {
+	/*animation: iconHover 8s ease-in-out linear infinite;*/
+	animation: iconHover 3s infinite ease-in;
+	
 
 }
 
