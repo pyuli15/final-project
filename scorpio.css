@@ -23,6 +23,10 @@ h1 {
   animation: dash 8s linear alternate infinite;
 }
 
+.face {
+  fill: #ffffff;
+}
+
 
 @keyframes dash {
   from {

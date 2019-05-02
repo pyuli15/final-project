@@ -17,10 +17,12 @@ body {
 
 #ram {
 	z-index: 1000;
+	fill: #ffffff;
 }
 
 #fish {
 	z-index: 1000;
+	fill: #ffffff;
 }
 
 @keyframes iconHover {
