@@ -9,10 +9,13 @@ body {
 #scorpio {
 	z-index: 1000;
 	fill: #ffffff;
+
+	
 }
 
-#scorpio:hover {
+.icon1:hover {
 	animation: iconHover 8s ease-in-out linear infinite;
+
 }
 
 #ram {
@@ -26,13 +29,15 @@ body {
 }
 
 @keyframes iconHover {
-	0% { fill: 000000; }
+	0% { fill: #000000; }
 	25% { fill: #3F3A24; }
 	50% { fill: #7E7548; }
 	75% { fill:  #BDB06C; }
 	100% { fill: #FDEB91; }
 	
 }
+
+
 /* ============================================================================================== 
 SED Innovations
 https://sed.am
