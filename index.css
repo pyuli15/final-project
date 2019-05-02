@@ -8,26 +8,37 @@ body {
 
 #scorpio {
 	z-index: 1000;
-	fill: #ffffff;
+	
 
 	
 }
 
 #scorpio:hover {
 	/*animation: iconHover 8s ease-in-out linear infinite;*/
-	animation: iconHover 3s infinite ease-in;
-	
+	animation: iconHover 3s infinite ease-in-out;	
+
+}
+
+#ram:hover {
+	/*animation: iconHover 8s ease-in-out linear infinite;*/
+	animation: iconHover 3s infinite ease-in-out;	
+
+}
+
+#fish:hover {
+	/*animation: iconHover 8s ease-in-out linear infinite;*/
+	animation: iconHover 3s infinite ease-in-out;	
 
 }
 
 #ram {
 	z-index: 1000;
-	fill: #ffffff;
+	
 }
 
 #fish {
 	z-index: 1000;
-	fill: #ffffff;
+	
 }
 
 @keyframes iconHover {
