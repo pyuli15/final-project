@@ -4,6 +4,18 @@ body {
 	align-items: center;
 	justify-content: center;
 	display: flex;
+	background-color: #17182f
+}
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+
+#particles {
+  position: absolute;
+  width: 100%;
+  height: 100%;
 }
 
 #scorpio {
@@ -56,7 +68,7 @@ SED Innovations
 https://sed.am
 https://mkrtchyan.ga
 ================================================================================================= */
-* {
+/** {
     margin: 0;
     padding: 0;
 }
@@ -133,4 +145,4 @@ header a, a:visited {
 
 .clouds{
     background:transparent url(http://www.script-tutorials.com/demos/360/images/clouds3.png) repeat top center;
-    z-index:3;
+    z-index:3;*/
