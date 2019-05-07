@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Aries" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="377.419px" height="237.419px" viewBox="0 0 377.419 237.419" enable-background="new 0 0 377.419 237.419"
+	 xml:space="preserve">
+<g id="line">
+	<polyline fill="#FFFFFF" points="40.055,46.601 271.344,131.634 330.016,166.497 339.37,197.109 	"/>
+	<polygon points="338.74,197.302 329.46,166.933 271.007,132.2 39.827,47.219 40.282,45.982 271.571,131.015 330.572,166.06 
+		340,196.916 	"/>
+</g>
+<g id="circles">
+	<g>
+		<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="40.055" cy="46.601" r="8.387"/>
+		<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="338.74" cy="197.302" r="8.387"/>
+		<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="330.016" cy="166.497" r="8.387"/>
+		<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="271.571" cy="131.015" r="8.387"/>
+	</g>
+</g>
+</svg>

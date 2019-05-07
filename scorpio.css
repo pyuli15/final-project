@@ -1,6 +1,9 @@
 @font-face { font-family: Zodiac; src: url('font/TaraType.ttf'); } 
 @font-face { font-family: Zodiac; font-weight: bold; src: url('font/TaraType.ttf');}
 
+@font-face { font-family: Straight; src: url('font/Straight.otf'); } 
+@font-face { font-family: Straight; font-weight: bold; src: url('font/Straight.otf');}
+
 body {
   background-color:#000000;
   margin: 0;
@@ -8,13 +11,32 @@ body {
   color:#fff;
   padding: 0;
 }
+#const1 {
+  margin: 0;
+  padding: 0;
+}
+
+#const2 {
+  width: 50%;
+  height: 50%;
+}
 
 * { color:#fff; text-decoration: none;}
 
 h1 {
 	font-family: Zodiac;
-	font-size: 5em;
+	font-size: 80px;
   padding: 0;
+}
+
+h2 {
+  font-family: Straight;
+  font-size: 40px;
+}
+
+p {
+  font-family: Zodiac;
+  font-size: 15px;
 }
 
 #path {
