@@ -4,10 +4,10 @@ var k = 0;
 var l = 0;
 
 
-var txt = `Dare defy me and my character`; 
-var txt2 = `Sting as deep as flesh, bore through you`; 
-var txt3 = `I am a force much stronger than such`;
-var txt4 = `Respect that which is grander`;
+var txt = `I will outdo you`; 
+var txt2 = `Achieve that which you strive for`; 
+var txt3 = `Do so better`;
+var txt4 = `With care and content`;
 
 
 var speed = 200;

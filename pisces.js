@@ -4,10 +4,10 @@ var k = 0;
 var l = 0;
 
 
-var txt = `Dare defy me and my character`; 
-var txt2 = `Sting as deep as flesh, bore through you`; 
-var txt3 = `I am a force much stronger than such`;
-var txt4 = `Respect that which is grander`;
+var txt = `Feel as far as the depths within me`; 
+var txt2 = `I see beyond what is visible`; 
+var txt3 = `Find me `;
+var txt4 = `Underneath the layers of my shell`;
 
 
 var speed = 200;
