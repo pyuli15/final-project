@@ -12,10 +12,11 @@ canvas {
   vertical-align: bottom;
 }
 
-#particles {
-  position: absolute;
-  width: 100%;
+#particles-js {
   height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 1000;
 }
 
 #scorpio {
@@ -68,7 +69,7 @@ SED Innovations
 https://sed.am
 https://mkrtchyan.ga
 ================================================================================================= */
-/** {
+* {
     margin: 0;
     padding: 0;
 }
@@ -145,4 +146,4 @@ header a, a:visited {
 
 .clouds{
     background:transparent url(http://www.script-tutorials.com/demos/360/images/clouds3.png) repeat top center;
-    z-index:3;*/
+    z-index:3;
