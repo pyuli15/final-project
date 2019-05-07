@@ -1,110 +1,45 @@
-particlesJS("particles", {
-  "particles": {
-    "number": {
-      "value": 355,
-      "density": {
-        "enable": true,
-        "value_area": 789.1476416322727
+      const canvas = document.getElementById('drawing');
+      const context = canvas.getContext('2d');
+
+      let width;
+      let height;
+
+      function setup() {
+        width = window.innerWidth;
+        height = window.innerHeight;
+
+        // set the CSS display size
+        canvas.style.width = width + 'px';
+        canvas.style.height = height + 'px';
+
+        // set the number of display pixels, scaled for device resolution
+        var scale = window.devicePixelRatio;
+        canvas.width = width * scale;
+        canvas.height = height * scale;
+
+        // normalize the coordinate system
+        context.scale(scale, scale);
       }
-    },
-    "color": {
-      "value": "#ffffff"
-    },
-    "shape": {
-      "type": "circle",
-      "stroke": {
-        "width": 0,
-        "color": "#000000"
-      },
-      "polygon": {
-        "nb_sides": 5
-      },
-      "image": {
-        "src": "img/github.svg",
-        "width": 100,
-        "height": 100
+
+      function draw() {
+        context.fillStyle = 'black';
+        context.fillRect(0, 0, width, height);
+
+        // draw text to the canvas
+        context.font = '44px Zodiac';
+        context.textBaseline = 'middle';
+        // context.textAlign = 'center';
+        context.strokeStyle = 'white';
+        context.strokeText('Who Are You Among The Stars?', width/2, height/2);
       }
-    },
-    "opacity": {
-      "value": 0.48927153781200905,
-      "random": false,
-      "anim": {
-        "enable": true,
-        "speed": 0.2,
-        "opacity_min": 0,
-        "sync": false
-      }
-    },
-    "size": {
-      "value": 2,
-      "random": true,
-      "anim": {
-        "enable": true,
-        "speed": 2,
-        "size_min": 0,
-        "sync": false
-      }
-    },
-    "line_linked": {
-      "enable": false,
-      "distance": 150,
-      "color": "#ffffff",
-      "opacity": 0.4,
-      "width": 1
-    },
-    "move": {
-      "enable": true,
-      "speed": 0.2,
-      "direction": "none",
-      "random": true,
-      "straight": false,
-      "out_mode": "out",
-      "bounce": false,
-      "attract": {
-        "enable": false,
-        "rotateX": 600,
-        "rotateY": 1200
-      }
-    }
-  },
-  "interactivity": {
-    "detect_on": "canvas",
-    "events": {
-      "onhover": {
-        "enable": true,
-        "mode": "bubble"
-      },
-      "onclick": {
-        "enable": true,
-        "mode": "push"
-      },
-      "resize": true
-    },
-    "modes": {
-      "grab": {
-        "distance": 400,
-        "line_linked": {
-          "opacity": 1
-        }
-      },
-      "bubble": {
-        "distance": 83.91608391608392,
-        "size": 1,
-        "duration": 3,
-        "opacity": 1,
-        "speed": 3
-      },
-      "repulse": {
-        "distance": 200,
-        "duration": 0.4
-      },
-      "push": {
-        "particles_nb": 4
-      },
-      "remove": {
-        "particles_nb": 2
-      }
-    }
-  },
-  "retina_detect": true
-});
+      
+      setup();
+
+      draw();
+      
+      window.addEventListener('resize', function() {
+        setup();
+        draw(); // not necessary for animated drawings
+      });
+    
+
