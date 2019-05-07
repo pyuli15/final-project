@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="384.516px" height="236.774px" viewBox="0 0 384.516 236.774" enable-background="new 0 0 384.516 236.774"
+	 xml:space="preserve">
+<g id="stones">
+	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M179.355,29.677c0,0-43.226,53.941-43.226,83.871
+		c0,29.93,17.909,54.194,40,54.194c22.091,0,40-24.263,40-54.194C216.129,83.618,179.355,29.677,179.355,29.677z"/>
+	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M46.452,83.871c0,0,9.121,68.068,27.435,86.538
+		c18.314,18.47,44.852,21.851,59.274,7.551c14.422-14.3,11.267-40.866-7.047-59.336C107.799,100.153,46.452,83.871,46.452,83.871z"
+		/>
+	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M291.613,50.323c0,0-48.482,30.066-65.698,61.262
+		c-17.216,31.196-21.69,61.719-9.991,68.175s35.139-13.599,52.355-44.795C285.495,103.768,291.613,50.323,291.613,50.323z"/>
+	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M255.204,156.852c-10.218,10.44-10.864,26.38-1.442,35.601
+		c9.422,9.221,25.343,8.233,35.562-2.207c10.218-10.44,26.806-56.749,26.806-56.749S265.422,146.411,255.204,156.852z"/>
+</g>
+<g id="circles">
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="43.871" cy="83.871" rx="8.133" ry="8.065"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="179.355" cy="29.677" rx="8.133" ry="8.065"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="291.613" cy="50.323" rx="8.133" ry="8.065"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="316.129" cy="133.496" rx="8.133" ry="8.065"/>
+</g>
+</svg>

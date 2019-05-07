@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="piscies" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="328px" height="237.333px" viewBox="0 0 328 237.333" enable-background="new 0 0 328 237.333" xml:space="preserve">
+<g id="line">
+	<path d="M63.001,194.913l9.718-32.625l9.341-26.689l7.317-18.628l2.707-20.097l6-12l2.467-5.529l-11.357-38.08h29.441
+		l-17.021,38.149l0.062,0.208l-0.179,0.054l-2.51,5.626l-5.972,11.945L90.33,117.28l-7.333,18.667l-9.327,26.649l-8.941,30.02
+		l26.046-16.721l13.731,3.349l13.194-4.618l12.122-6.065l10.75,3.359l71.34-10.667l27.309,9.325l21.322-5.33l11.673,3.433
+		l7.641,15.283l-17.857,10.302h-21.93l-1.369-17.795l0.997-0.077l1.298,16.872h20.737l16.809-9.698l-7.025-14.051l-10.994-3.233
+		l-21.345,5.336l-27.357-9.341l-71.327,10.665l-10.583-3.307l-11.82,5.91l-13.532,4.741l-13.602-3.318L63.001,194.913z
+		 M90.536,42.264l10.641,35.678l15.918-35.678H90.536z"/>
+</g>
+<g id="circles">
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="117.095" cy="42.264" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="89.194" cy="41.264" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="101.177" cy="77.942" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="94.843" cy="95.785" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="89.377" cy="116.97" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="63.001" cy="194.913" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="89.377" cy="177.333" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="107.51" cy="180" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="129.761" cy="171" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="210" cy="161.333" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="239.22" cy="170.576" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="260.542" cy="165.246" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="279.856" cy="183.962" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="260.542" cy="194.913" r="6.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="240.069" cy="194.264" r="6.333"/>
+</g>
+</svg>

@@ -10,7 +10,6 @@ body {
   text-align: center;
   color:#fff;
   padding: 0;
-
 }
 #const1 {
   margin: 0;
@@ -20,14 +19,15 @@ body {
 #const2 {
   width: 50%;
   height: 50%;
+  
 }
 
 #const3 {
-  width: 40%;
-  height: 40%;
+  width: 50%;
+  height: 50%;
   position: relative;
   left: 350px;
-
+  
 }
 
 * { color:#fff; text-decoration: none;}
@@ -36,7 +36,6 @@ h1 {
 	font-family: Zodiac;
 	font-size: 80px;
   padding: 0;
-  margin: 20px;
 }
 
 h2 {
@@ -78,7 +77,7 @@ p {
   40%, 100% {fill: #000}
 }
 
-.scorp-lights {
+.pisces-lights {
   animation: lights 2.5s ease infinite;
 }
 
@@ -97,41 +96,15 @@ p {
 .light14 {animation-delay: .15s}
 .light15 {animation-delay: .16s}
 
-.scorp-face-lights {
+
+.piscesmoon-lights {
   animation: lights 2.5s ease infinite;
 }
 
-.slight2 {animation-delay: .3s}
-.slight3 {animation-delay: .4s}
-.slight4 {animation-delay: .5s}
-.slight5 {animation-delay: .6s}
-.slight6 {animation-delay: .7s}
-.slight7 {animation-delay: .8s}
-.slight8 {animation-delay: .9s}
-.slight9 {animation-delay: .10s}
-.slight10 {animation-delay: .11s}
-.slight11 {animation-delay: .12s}
-.slight12 {animation-delay: .13s}
-.slight13 {animation-delay: .14s}
-.slight14 {animation-delay: .15s}
-.slight15 {animation-delay: .16s}
-.slight16 {animation-delay: .17s}
-.slight17 {animation-delay: .18s}
-.slight18 {animation-delay: .19s}
-.slight19 {animation-delay: .20s}
-.slight20 {animation-delay: .21s}
-.slight21 {animation-delay: .22s}
-.slight22 {animation-delay: .23s}
-.slight23 {animation-delay: .24s}
-.slight24 {animation-delay: .25s}
-.slight25 {animation-delay: .26s}
-.slight26 {animation-delay: .27s}
-.slight27 {animation-delay: .28s}
-.slight28 {animation-delay: .29s}
+.light2 {animation-delay: .3s}
+.light3 {animation-delay: .4s}
+.light4 {animation-delay: .5s}
 
-.scorpflower-lights {
+.piscesflower-light {
   animation: lights 2.5s ease infinite;
 }
-
-.light2 {animation-delay: .4s}
-.light3 {animation-delay: .6s}
